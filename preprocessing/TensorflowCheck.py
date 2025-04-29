@@ -1,7 +1,7 @@
 import tensorflow as tf
 from tensorflow.python.client import timeline
 import GPUtil
-
+        
 print("TensorFlow Version:", tf.__version__)
 
 if tf.test.gpu_device_name():
