@@ -12,10 +12,7 @@ The primary objective of SwiftGrade is to streamline the grading process, reduce
 ```
 /Project-SwiftGrade
 │
-├── /PreprocessingModules/ # Contains scripts for data normalization, checksum validation, and initial text extraction
-├── /Models/ # Houses AI and machine learning models, training scripts, and evaluation utilities
-├── /UI_UX/ # User interface and experience components, primarily built with Flutter for cross-platform compatibility
-├── /Datasets/ # Contains training, validation, and test datasets (note: large files excluded via .gitignore)
+├── /preprocessing/ # Contains scripts for data normalization, checksum validation, and initial text extraction
 ├── /Documentation/ # Technical specifications, design documents, and API references
 ├── README.md # Project overview and usage guidelines (this file)
 └── LICENSE # Licensing information and terms of use
