@@ -9,7 +9,7 @@ The primary objective of SwiftGrade is to streamline the grading process, reduce
 ---
 
 ## Repository Structure
-
+```
 /Project-SwiftGrade
 │
 ├── /PreprocessingModules/ # Contains scripts for data normalization, checksum validation, and initial text extraction
@@ -19,7 +19,7 @@ The primary objective of SwiftGrade is to streamline the grading process, reduce
 ├── /Documentation/ # Technical specifications, design documents, and API references
 ├── README.md # Project overview and usage guidelines (this file)
 └── LICENSE # Licensing information and terms of use
-
+```
 
 ---
 
