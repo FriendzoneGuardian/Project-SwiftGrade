@@ -53,8 +53,10 @@ models: Dedicated branch for AI/ML model experimentation, training updates, and 
 
 ---
 
-## Licensing and Usage
+### Licensing and Usage
 This project is licensed under the MIT License. Please refer to the LICENSE file for full details.
+
+
 ---
 
 ## Contact and Support
