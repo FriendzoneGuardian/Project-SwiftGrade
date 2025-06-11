@@ -9,14 +9,11 @@ The primary objective of SwiftGrade is to streamline the grading process, reduce
 ---
 
 ## Repository Structure
-```
+
 /Project-SwiftGrade
 │
-├── /preprocessing/ # Contains scripts for data normalization, checksum validation, and initial text extraction
-├── /Documentation/ # Technical specifications, design documents, and API references
-├── README.md # Project overview and usage guidelines (this file)
-└── LICENSE # Licensing information and terms of use
-```
+├── **TBD**
+
 
 ---
 
@@ -49,14 +46,10 @@ main: Stable production-ready code. All features must be fully tested and review
 
 dev: Active development branch for UI/UX enhancements and integration testing.
 
-models: Dedicated branch for AI/ML model experimentation, training updates, and performance benchmarking.
-
 ---
 
-### Licensing and Usage
+## Licensing and Usage
 This project is licensed under the MIT License. Please refer to the LICENSE file for full details.
-
-
 ---
 
 ## Contact and Support
